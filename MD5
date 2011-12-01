@@ -1,0 +1,14 @@
+46737baaec27a3ecff8e90a45acfaf61 *DESCRIPTION
+0b5c5935c202ac17c0aa0bfacdf86281 *NAMESPACE
+403459141d87b2a8fabccad9bc351800 *R/ask.r
+75700b1e28d005ff31fd06d5238e48ea *R/funcall.r
+f82afad1a78dd31c2f18ce04d4aa7e58 *R/guard.r
+9fd2980df0c3619b4e91c453ddbbb1e4 *R/pluck.r
+20d86968388116636d1ae7ae988e78db *R/tee.r
+831f78223bf937838aa99b88572cdb25 *man/Ask.Rd
+4ccb5dd6b35be84b9599ce35c4c08f33 *man/call_fun.Rd
+139c72982f8fabea24533fe56319d3d4 *man/failwith.Rd
+0d8e064db4dba42950f289bd5a630306 *man/guard.Rd
+0067e9b0299157de53654dc77ecf1354 *man/pluck.Rd
+b7de47aaf9581dad9e7fe5d85a934933 *man/remember.Rd
+171386dcf3e4e47e3c1b7771b90999ab *man/tee.Rd
